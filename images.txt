@@ -6,7 +6,7 @@ mariadb
 postgres:latest
 #other
 hezhizheng/go-wxpush:v4
-raphzhang/zirconlegend:latest
+#raphzhang/zirconlegend:latest
 ani-rss:latest
 qbittorrent:latest
 #支持私库
